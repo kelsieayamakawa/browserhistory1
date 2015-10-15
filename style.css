@@ -1,8 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: darkblue;
+  color: white;
   margin: 10px 50px 10px 50px;
-  background-color: ivory;
+  background-color: black;
 }
 
 #navbar ul {
@@ -31,18 +31,6 @@ img {
 
 .left {
   float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-}
-
-.center {
-  margin-left: 300px;
-  margin-right: 300px;
+  width: 100px;
   padding: 1em;
 }
